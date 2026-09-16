@@ -1,4 +1,5 @@
 # Real-Time Hand Centroid Tracking with Custom YOLOv8
+![Hand Tracking Demo](demo.png)
 
 A lightweight computer vision pipeline designed for real-time hand detection and centroid spatial extraction using a custom-trained **YOLOv8** model and OpenCV.
 
